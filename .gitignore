@@ -1,0 +1,8 @@
+# Archivos innecesarios para Git
+.terraform/
+*.tfstate
+*.tfstate.backup
+*.zip
+*.pyc
+__pycache__/
+terraform.tfvars
